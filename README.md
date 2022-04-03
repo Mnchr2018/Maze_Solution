@@ -1,10 +1,10 @@
 # Maze_Solution
 
-Example:
+## Example:
 
 ![Raw Maze](images/img004.tif)
 
-to
+## to
 
 ![Solved Maze](img004.tif)
 

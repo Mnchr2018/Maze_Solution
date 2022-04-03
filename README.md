@@ -2,10 +2,7 @@
 
 ## Example:
 
-![Raw Maze](/images/img004.png)
+<img src=images/img004.png width="200">
 
-
-
-![Solved Maze](img004.png)
-
+<img src=img004.png width="200">
 

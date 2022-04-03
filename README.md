@@ -2,10 +2,10 @@
 
 ## Example:
 
-![Raw Maze](images/img004.tif)
+![Raw Maze](images/img004.png)
 
 ## to
 
-![Solved Maze](img004.tif)
+![Solved Maze](img004.png)
 
 
